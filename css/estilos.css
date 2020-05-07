@@ -4,15 +4,27 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     margin: 0;
-    padding: 0;
+    padding: 10px;
+}
+#cabecera {
+   background: #1f30c4;
+   text-shadow: 0px 2px 20px 0px #0a0a0a;
+   color: white;
+   font-weight: bold;
+   margin: 0;
+   padding: 10px;
+ 
+}
+#cabecera #tagline {
+    padding: 10px;
+    font-weight: normal;
+    font-size: 0.8em;
+
 }
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 10px;
     text-align: left;
-    border: 1px  solid #000;
+    border: 1px solid  #0a0a0a;
     margin: 0 auto;
-}
-#container h1 {
-    font-size: 20px;
 }
