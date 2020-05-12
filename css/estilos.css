@@ -28,15 +28,25 @@ body {
 }
 #container {
     width: 70%;
-    padding: 10px;
+    padding: 10px 10px 0px 10px;
     text-align: left;
     border: 1px solid  #0a0a0a;
     margin: 0 auto;
 }
+<<<<<<< HEAD
 #container h1 {
     font-size: 20px;
 }
 #post {
     background: white;
     padding: 1em;
+=======
+
+#footer {
+    background: #4f4f52;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+
+>>>>>>> footer
 }
